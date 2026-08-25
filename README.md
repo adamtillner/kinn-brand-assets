@@ -42,10 +42,35 @@ emails already sent. A new version gets a new name: `wordmark-v2.png`.
 
 | | |
 |---|---|
+| `wordmarks/` | The Kinn mark. `charcoal` for light grounds, `ivory` for dark and for dark mode. **Both must ship** — charcoal alone means an invisible logo in dark mode, the failure nobody catches because nobody tests it |
+| `icons/` | 100 icons, five tones each: amber, charcoal, gold, ivory, and ring variants |
+| `figures/` | Explanatory diagrams used in specific emails |
 | `abstract-background/` | Textures and dark grounds for headers and section breaks |
 | `evening-shots/` | Lifestyle photography — the evening, the ritual, the person |
 | `ingredients/` | The six actives, shot individually |
 | `product/` | Pack, sachet, pour, hero shots |
+
+## Sizing — read before adding a photograph
+
+Email is not the web. She may be on cellular data in bed, and a heavy image
+shows as a grey box until after she has decided whether to care.
+
+**Width: 1200px maximum.** The body of an email is 600px wide in every client.
+1200 covers that at 2x for retina. Anything wider is downloaded and thrown away.
+
+**Long edge: 1600px maximum.** A phone-shaped crop at 600px wide runs over a
+thousand pixels down the screen. No email uses an image that tall.
+
+**File size: under 250KB, ideally under 150KB** for anything above the fold.
+Keep the whole email under about 1MB.
+
+**JPEG for photographs, PNG for anything with transparency.** Not WebP —
+Outlook does not support it and the image simply fails to appear.
+
+Everything currently here has been through this. Average 176KB, largest 245KB.
+If you drop in a new photograph straight from a camera or a generator, it will
+be five to ten times too big, and resizing it is the single highest-value thing
+you can do to the email.
 
 ## Where these come from
 
