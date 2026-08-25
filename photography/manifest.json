@@ -1,0 +1,298 @@
+{
+  "backdrop/dawn": {
+    "bytes": 63630,
+    "file": "backdrop-dawn.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Abstract Background/Gemini_Generated_Image_vl464nvl464nvl46-clean.jpg",
+    "width": 1200
+  },
+  "backdrop/dusk": {
+    "bytes": 66792,
+    "file": "backdrop-dusk.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Abstract Background/AbstractTexture-Dark6.jpg",
+    "width": 1200
+  },
+  "backdrop/ember": {
+    "bytes": 51426,
+    "file": "backdrop-ember.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Abstract Background/Gemini_Generated_Image_3icrht3icrht3icr-clean.jpg",
+    "width": 1200
+  },
+  "backdrop/haze": {
+    "bytes": 57694,
+    "file": "backdrop-haze.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Abstract Background/Gemini_Generated_Image_sh6kgssh6kgssh6k-clean.jpg",
+    "width": 1200
+  },
+  "backdrop/quiet": {
+    "bytes": 58960,
+    "file": "backdrop-quiet.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Abstract Background/AbstractTexture-Dark1.jpg",
+    "width": 1200
+  },
+  "backdrop/quiet-plum": {
+    "bytes": 54406,
+    "file": "backdrop-quiet-plum.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Abstract Background/2b537f95-5d1e-4b65-8c74-2f5765c2321e.jpg",
+    "width": 1200
+  },
+  "backdrop/smoke": {
+    "bytes": 284318,
+    "file": "backdrop-smoke.jpg",
+    "height": 1600,
+    "slot": "backdrop",
+    "source": "Product/Bloom.jpg",
+    "width": 1200
+  },
+  "break/empty-chair": {
+    "bytes": 52253,
+    "file": "break-empty-chair.jpg",
+    "height": 480,
+    "slot": "break",
+    "source": "Evening Shots/Armchair&Blanket.jpg",
+    "width": 1200
+  },
+  "break/kettle": {
+    "bytes": 28403,
+    "file": "break-kettle.jpg",
+    "height": 480,
+    "slot": "break",
+    "source": "Evening Shots/Kettle&Cup.jpg",
+    "width": 1200
+  },
+  "break/lamp-off": {
+    "bytes": 38836,
+    "file": "break-lamp-off.jpg",
+    "height": 480,
+    "slot": "break",
+    "source": "Evening Shots/TurningLampOff.jpg",
+    "width": 1200
+  },
+  "hero-tall/kitchen-pour": {
+    "bytes": 99477,
+    "file": "hero-tall-kitchen-pour.jpg",
+    "height": 1500,
+    "slot": "hero-tall",
+    "source": "Evening Shots/MakingDrinkInKitchenLongExposure.jpg",
+    "width": 1200
+  },
+  "hero-tall/reading": {
+    "bytes": 98194,
+    "file": "hero-tall-reading.jpg",
+    "height": 1500,
+    "slot": "hero-tall",
+    "source": "Evening Shots/WomanReadingBook.jpg",
+    "width": 1200
+  },
+  "hero/drinking": {
+    "bytes": 60723,
+    "file": "hero-drinking.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Evening Shots/WomanDrinking.jpg",
+    "width": 1200
+  },
+  "hero/kitchen-pour": {
+    "bytes": 67397,
+    "file": "hero-kitchen-pour.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Evening Shots/MakingDrinkInKitchenLongExposure.jpg",
+    "width": 1200
+  },
+  "hero/product-kitchen": {
+    "bytes": 81904,
+    "file": "hero-product-kitchen.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Product/HeroWithProduct.jpg",
+    "width": 1200
+  },
+  "hero/reading": {
+    "bytes": 53845,
+    "file": "hero-reading.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Evening Shots/WomanReadingBook.jpg",
+    "width": 1200
+  },
+  "hero/reading-lamp": {
+    "bytes": 63302,
+    "file": "hero-reading-lamp.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Evening Shots/SittingWithBookLongExposure.jpg",
+    "width": 1200
+  },
+  "hero/walking-mug": {
+    "bytes": 52446,
+    "file": "hero-walking-mug.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Evening Shots/WomanWalkingWithMug.jpg",
+    "width": 1200
+  },
+  "hero/watch-off": {
+    "bytes": 62530,
+    "file": "hero-watch-off.jpg",
+    "height": 800,
+    "slot": "hero",
+    "source": "Evening Shots/TakingWatchOffInBed.jpg",
+    "width": 1200
+  },
+  "inset/box-on-table": {
+    "bytes": 36394,
+    "file": "inset-box-on-table.jpg",
+    "height": 715,
+    "slot": "inset",
+    "source": "Product/ProductOnTable.jpg",
+    "width": 1072
+  },
+  "inset/jujube": {
+    "bytes": 112987,
+    "file": "inset-jujube.jpg",
+    "height": 715,
+    "slot": "inset",
+    "source": "Ingredients/Jujube seed.jpg",
+    "width": 1072
+  },
+  "inset/kettle": {
+    "bytes": 35857,
+    "file": "inset-kettle.jpg",
+    "height": 715,
+    "slot": "inset",
+    "source": "Evening Shots/Kettle&Cup.jpg",
+    "width": 1072
+  },
+  "inset/pour": {
+    "bytes": 42757,
+    "file": "inset-pour.jpg",
+    "height": 715,
+    "slot": "inset",
+    "source": "Product/Pour.jpg",
+    "width": 1072
+  },
+  "inset/reading": {
+    "bytes": 49066,
+    "file": "inset-reading.jpg",
+    "height": 715,
+    "slot": "inset",
+    "source": "Evening Shots/WomanReadingBook.jpg",
+    "width": 1072
+  },
+  "inset/sofa": {
+    "bytes": 52663,
+    "file": "inset-sofa.jpg",
+    "height": 715,
+    "slot": "inset",
+    "source": "Evening Shots/SittingOnSofaLongExposure.jpg",
+    "width": 1072
+  },
+  "split/feet-up": {
+    "bytes": 67508,
+    "file": "split-feet-up.jpg",
+    "height": 1000,
+    "slot": "split",
+    "source": "Evening Shots/FeetUpOnSofa.jpg",
+    "width": 1000
+  },
+  "split/holding-mug": {
+    "bytes": 70250,
+    "file": "split-holding-mug.jpg",
+    "height": 1000,
+    "slot": "split",
+    "source": "Evening Shots/WomanWithDrink2.jpg",
+    "width": 1000
+  },
+  "split/pour": {
+    "bytes": 55495,
+    "file": "split-pour.jpg",
+    "height": 1000,
+    "slot": "split",
+    "source": "Product/Pour.jpg",
+    "width": 1000
+  },
+  "split/sachet-held": {
+    "bytes": 89477,
+    "file": "split-sachet-held.jpg",
+    "height": 1000,
+    "slot": "split",
+    "source": "Product/WomanHoldingSachet2 1 (1).jpg",
+    "width": 1000
+  },
+  "split/sachet-kitchen": {
+    "bytes": 38323,
+    "file": "split-sachet-kitchen.jpg",
+    "height": 1000,
+    "slot": "split",
+    "source": "Product/HoldingSachetInKitchen.jpg",
+    "width": 1000
+  },
+  "split/smiling": {
+    "bytes": 49857,
+    "file": "split-smiling.jpg",
+    "height": 1000,
+    "slot": "split",
+    "source": "Evening Shots/SmilingWithDrink.jpg",
+    "width": 1000
+  },
+  "tile/glycine": {
+    "bytes": 21311,
+    "file": "tile-glycine.jpg",
+    "height": 404,
+    "slot": "tile",
+    "source": "Ingredients/Glycine.jpg",
+    "width": 404
+  },
+  "tile/hyaluronic": {
+    "bytes": 28965,
+    "file": "tile-hyaluronic.jpg",
+    "height": 404,
+    "slot": "tile",
+    "source": "Ingredients/Hyaluronic acid.jpg",
+    "width": 404
+  },
+  "tile/jujube": {
+    "bytes": 35480,
+    "file": "tile-jujube.jpg",
+    "height": 404,
+    "slot": "tile",
+    "source": "Ingredients/Jujube seed.jpg",
+    "width": 404
+  },
+  "tile/magnesium": {
+    "bytes": 25066,
+    "file": "tile-magnesium.jpg",
+    "height": 404,
+    "slot": "tile",
+    "source": "Ingredients/Magnesium.jpg",
+    "width": 404
+  },
+  "tile/theanine": {
+    "bytes": 28795,
+    "file": "tile-theanine.jpg",
+    "height": 404,
+    "slot": "tile",
+    "source": "Ingredients/L-theanine.jpg",
+    "width": 404
+  },
+  "tile/vitamin-c": {
+    "bytes": 18577,
+    "file": "tile-vitamin-c.jpg",
+    "height": 404,
+    "slot": "tile",
+    "source": "Ingredients/Vitamin C.jpg",
+    "width": 404
+  }
+}
